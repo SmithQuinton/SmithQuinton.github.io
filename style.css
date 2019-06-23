@@ -96,6 +96,9 @@ body {
     border-left: 0 none;
   }
   
+  nav a:hover {
+    color: red;
+  }
   /* footer */
   
   footer {
